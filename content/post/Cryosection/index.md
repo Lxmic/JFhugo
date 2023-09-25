@@ -4,7 +4,8 @@
 title: "Cryosection"
 subtitle: ""
 summary: ""
-authors: JF Jin
+authors: 
+    - admin
 tags: Cryosection
 categories: Technology
 date: 2023-09-22T14:16:15+08:00
