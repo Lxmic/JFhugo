@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Cryosection"
-subtitle: ""
+subtitle: "Frozen section technique is a valuable tool to rapidly prepare slides from tissue for microscopic interpretation. "
 summary: ""
 authors: 
     - admin
