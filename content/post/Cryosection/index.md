@@ -29,12 +29,12 @@ image:
 projects: []
 ---
 
-## What exactly is cryosection?
+## <font color=green>What exactly is cryosection?</font>
 
 Frozen section technique is a valuable tool to rapidly prepare slides from tissue for microscopic interpretation. 
 
-### 植物冷冻切片优缺点
-#### 缺点
+## <font color=green>植物冷冻切片优缺点</font>
+### 缺点
 - 易形成冰晶，破坏组织结构
     与动物组织相比，植物组织样品含水含量跟高，制作冷冻切片时，难度更大。在进行低温冷冻时，会有更多的冰晶形成，冰晶体积大于液态水，从而破坏组织细胞结构。
 - 冰冻易破碎
@@ -46,14 +46,14 @@ Frozen section technique is a valuable tool to rapidly prepare slides from tissu
 - 组织以保持原始状态
     新鲜组织可以直接冷冻，能够较好保持组织原始结构状态。
 
-## 如何冷冻植物样品？
+## <font color=green>如何冷冻植物样品？</font>
 为了更好地保持植物组织原有的结构状态，样本需要尽可能的快速冷冻。常用的冷冻剂包括：液氮(-190°C)和干冰（-70°C）通常最好的冷冻剂需要快速冷冻，液氮是比较好的选择，但组织与液氮存在很大温差，容易导致组织表面沸腾，使组织周围容易产生空泡或冷冻不均匀，最终使得组织破裂和损伤组织。
 
 冷冻保护剂的使用，可以使植物组织不直接接触液氮也可快速冷冻，很好解决了液氮直接冷冻导致的样品破裂或结构改变。
 
 常用的商用冷冻剂包括hexane, 2-methylbutane, and 1-methoxyheptafluoropropane (N7000)。 前面两者有毒或者易燃，会对人体造成伤害。而3M Novec 7000 Engineered liquid具有很好的导热性，无毒，不挥发且具有热稳定性，同时也能同等程度或者更好的保护组织结构。
 
-## 冷冻方法
+## <font color=green>冷冻方法</font>
 ### 液氮和冷冻剂联合冷冻法
 - 液氮罐中倒入液氮，液氮液面不要太高，避免进入金属烧杯与异戊烷混合。
 - 金属烧杯倒入异戊烷，将金属烧杯置于液氮中预冷至无雾气，可能需要15 min左右。
@@ -65,7 +65,7 @@ Frozen section technique is a valuable tool to rapidly prepare slides from tissu
 - 100 ml玻璃烧杯放入植物组织，将烧杯放至干冰上，部分淹没至干冰中。
 - 向干冰中加入丙酮，加速温度传导，从而冰冻组织。
 
-## 包埋组织块
+## <font color=green>包埋组织块</font>
 包埋可以和冷冻同时进行，也可以分开进行。
 ### 先冷冻后包埋
 - 冰浴预冷冷冻包埋剂OCT至少30 min。
@@ -85,7 +85,7 @@ Frozen section technique is a valuable tool to rapidly prepare slides from tissu
 - 从冷冻模具中取出组织块，用刀片修剪后，放入冷冻管（提前置于干冰预冷）。
 > 如果不使用密闭容器保存组织块，可能会脱水并损坏组织块。
 - 组织块可以长期保存在-80°C或者立刻进行切片。
-## 冷冻切片cryosection
+## <font color=green>冷冻切片cryosection</font>
 ### 低温恒冷室预冷
 - 冷冻切片机退出睡眠模式，开始制冷。
 - 大部分组织，<font color=red>样品头</font>温度调整至-10°C；刀片温度调整至-20°C；大部分组织切片厚度10 µM左右。
