@@ -116,6 +116,6 @@ Frozen section technique is a valuable tool to rapidly prepare slides from tissu
 ## <font color=green>参考资料</font>
 1. [高冷冻切片的技术水平 \- 知乎](https://zhuanlan.zhihu.com/p/30836581)
 2. [Visium Tissue Preparation Protocol \| Flash Freezing Tissue](https://www.youtube.com/watch?v=KdfqH4zoy5M&list=PLfaSRwcfHcq0D8RTy9LR8sKsWcF6C8TAt)
-3. [Bradshaw R (2023) MALDI MS Imaging of Cucumbers. In LM Cole, MR Clench, eds, Imaging Mass Spectrometry: Methods and Protocols. Springer US, New York, NY, pp 63–69](10.1007/978-1-0716-3319-9_6)
+3. [Bradshaw R (2023) MALDI MS Imaging of Cucumbers. In LM Cole, MR Clench, eds, Imaging Mass Spectrometry: Methods and Protocols. Springer US, New York, NY, pp 63–69](https://doi.org/10.1007/978-1-0716-3319-9_6)
 4. [Nunez V, Cook A, Havnar C, Flanagan S, Ge N, Martzall A, Taylor RE, Lu M, Mayba O, Foreman O (2022) Tissue cryopreservation using the 3M™ Novec™ 7000 freezing coolant offers a comparable and safe alternative to customary coolants. Journal of Histotechnology 45: 85–91
-](10.1080/01478885.2021.1993528)
+](https://doi.org/10.1080/01478885.2021.1993528)
