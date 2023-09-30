@@ -32,7 +32,7 @@ projects: []
 ## <font color=green>What exactly is cryosection?</font>
 
 Frozen section technique is a valuable tool to rapidly prepare slides from tissue for microscopic interpretation. 
-
+***
 ## <font color=green>植物冷冻切片优缺点</font>
 ### 缺点
 - 易形成冰晶，破坏组织结构
@@ -45,13 +45,14 @@ Frozen section technique is a valuable tool to rapidly prepare slides from tissu
     不需要经过脱水、透明、浸蜡等石蜡切片过程步骤，使得制片时间大大缩短。
 - 组织以保持原始状态
     新鲜组织可以直接冷冻，能够较好保持组织原始结构状态。
-
+***
 ## <font color=green>如何冷冻植物样品？</font>
 为了更好地保持植物组织原有的结构状态，样本需要尽可能的快速冷冻。常用的冷冻剂包括：液氮(-190°C)和干冰（-70°C）通常最好的冷冻剂需要快速冷冻，液氮是比较好的选择，但组织与液氮存在很大温差，容易导致组织表面沸腾，使组织周围容易产生空泡或冷冻不均匀，最终使得组织破裂和损伤组织。
 
 冷冻保护剂的使用，可以使植物组织不直接接触液氮也可快速冷冻，很好解决了液氮直接冷冻导致的样品破裂或结构改变。
 
 常用的商用冷冻剂包括hexane, 2-methylbutane, and 1-methoxyheptafluoropropane (N7000)。 前面两者有毒或者易燃，会对人体造成伤害。而3M Novec 7000 Engineered liquid具有很好的导热性，无毒，不挥发且具有热稳定性，同时也能同等程度或者更好的保护组织结构。
+***
 
 ## <font color=green>冷冻方法</font>
 ### 液氮和冷冻剂联合冷冻法
@@ -64,7 +65,7 @@ Frozen section technique is a valuable tool to rapidly prepare slides from tissu
 - 1 L玻璃烧杯中加入粉状干冰，大概3-5 cm厚度。
 - 100 ml玻璃烧杯放入植物组织，将烧杯放至干冰上，部分淹没至干冰中。
 - 向干冰中加入丙酮，加速温度传导，从而冰冻组织。
-
+***
 ## <font color=green>包埋组织块</font>
 包埋可以和冷冻同时进行，也可以分开进行。
 ### 先冷冻后包埋
@@ -85,6 +86,7 @@ Frozen section technique is a valuable tool to rapidly prepare slides from tissu
 - 从冷冻模具中取出组织块，用刀片修剪后，放入冷冻管（提前置于干冰预冷）。
 > 如果不使用密闭容器保存组织块，可能会脱水并损坏组织块。
 - 组织块可以长期保存在-80°C或者立刻进行切片。
+***
 ## <font color=green>冷冻切片cryosection</font>
 ### 仪器工具预冷
 - 冷冻切片机退出睡眠模式，开始制冷。
@@ -110,3 +112,10 @@ Frozen section technique is a valuable tool to rapidly prepare slides from tissu
 - 将制作好的冷冻切片放入预冷的载玻片邮寄夹，密封保存，并置于干冰上，转移至-80°C保存，通常可以保存4周以上。
 > 每个邮寄器尽量放一个切片，防止互相交叉污染，并且需要放在密闭的容器内保存。运输冷冻切片务必在有干冰的条件下运输，切勿放在常温条件。
 - 最后，将切片头上的金属样品台和组织块取下，放置冷冻区域，并用OCT覆盖裸露的组织，等待OCT冷冻后，刀片修剪多余的OCT，将组织块放入冷冻管，置于干冰上转移至-80°C长期保存。
+
+## <font color=green>参考资料</font>
+1. [高冷冻切片的技术水平 \- 知乎](https://zhuanlan.zhihu.com/p/30836581)
+2. [Visium Tissue Preparation Protocol \| Flash Freezing Tissue](https://www.youtube.com/watch?v=KdfqH4zoy5M&list=PLfaSRwcfHcq0D8RTy9LR8sKsWcF6C8TAt)
+3. [Bradshaw R (2023) MALDI MS Imaging of Cucumbers. In LM Cole, MR Clench, eds, Imaging Mass Spectrometry: Methods and Protocols. Springer US, New York, NY, pp 63–69](10.1007/978-1-0716-3319-9_6)
+4. [Nunez V, Cook A, Havnar C, Flanagan S, Ge N, Martzall A, Taylor RE, Lu M, Mayba O, Foreman O (2022) Tissue cryopreservation using the 3M™ Novec™ 7000 freezing coolant offers a comparable and safe alternative to customary coolants. Journal of Histotechnology 45: 85–91
+](10.1080/01478885.2021.1993528)
