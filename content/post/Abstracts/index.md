@@ -28,33 +28,33 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Cuticle: a hydrophobic boundary layer that coats the outer face of the epidermis of aerial plant organs.
+<font color=amber>Cuticle</font>: a hydrophobic boundary layer that coats the outer face of the epidermis of aerial plant organs.
 
-Suberin: a hydrophobic polyester deposited in the apoplast of endodermal and peridermal cells, abscission zones, scar tissues, and seed coats.
+<font color=tomato>Suberin</font>: a hydrophobic polyester deposited in the apoplast of endodermal and peridermal cells, abscission zones, scar tissues, and seed coats.
 
-Cutin: a polyester network of predominantly fatty acids that constitutes a major component of the plant cuticle.
+<font color=chocolate>Cutin</font>: a polyester network of predominantly fatty acids that constitutes a major component of the plant cuticle.
 
-Cross-link: a lateral covalent linkage between two polymer chains.
+<font color=red>Cross-link</font>: a lateral covalent linkage between two polymer chains.
 
-Long-chain fatty acid: a fatty acid that is 16 or 18 carbons in length.
+<font color=seagreen>Long-chain fatty acid</font>: a fatty acid that is 16 or 18 carbons in length.
 
-Depolymerization: the breakdown of a polymer into its constituent monomers.
+<font color=red>Depolymerization</font>: the breakdown of a polymer into its constituent monomers.
 
-Gas chromatography: an analytical technique to separate and quantify the abundance of compounds that are volatile in a gaseous phase.
+<font color=green>Gas chromatography</font>: an analytical technique to separate and quantify the abundance of compounds that are volatile in a gaseous phase.
 
-Apoplast: the continuous region throughout the plant that is external to the plasma membranes.
+<font color=royalblue>Apoplast</font>: the continuous region throughout the plant that is external to the plasma membranes.
 
-Dendrimer: a branching, tree-like structure with a single origin and many termini.
+<font color=royalblue>Dendrimer</font>: a branching, tree-like structure with a single origin and many termini.
 
 
-Monoacylglycerol: a molecule consisting of glycerol ester-linked to a single acyl chain.
+<font color=chocolate>Monoacylglycerol</font>: a molecule consisting of glycerol ester-linked to a single acyl chain.
 
-Magic-angle spinning nuclear magnetic resonance (MAS NMR): a method of solid-state NMR spectroscopy that gives improved peak resolution.
+<font color=yellowgreen>Magic-angle spinning nuclear magnetic resonance (MAS NMR)</font>: a method of solid-state NMR spectroscopy that gives improved peak resolution.
 
-Long-chain acyl-CoA synthetase (LACS) proteins: enzymes that conjugate a molecule of coenzyme A to the carboxyl end of a fatty acid.
+<font color=chocolate>Long-chain acyl-CoA synthetase (LACS) proteins</font>: enzymes that conjugate a molecule of coenzyme A to the carboxyl end of a fatty acid.
 
-Cytochrome P450: a large family of enzymes that typically perform oxidation reactions.
+<font color=purple>Cytochrome P450</font>: a large family of enzymes that typically perform oxidation reactions.
 
-Cutinase: an enzyme that hydrolyzes polymeric cutin polymers, breaking the ester linkages.
+<font color=green>Cutinase</font>: an enzyme that hydrolyzes polymeric cutin polymers, breaking the ester linkages.
 
-Epidermal-growth-control theory: the thory that turgor-driven organ growth is constrained by the rigid epidermal layer.
+<font color=purple>Epidermal-growth-control theory</font>: the thory that turgor-driven organ growth is constrained by the rigid epidermal layer.
