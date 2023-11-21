@@ -4,7 +4,8 @@
 title: "Abstracts"
 subtitle: ""
 summary: "Some abstracts about plant cuticle"
-authors: admin
+authors: 
+    - admin
 tags: Cuticle
 categories: Abstracts
 date: 2023-10-23T15:15:51+08:00
