@@ -105,9 +105,9 @@ Frozen section technique is a valuable tool to rapidly prepare slides from tissu
 - 组织切片大小需要和载玻片相适配，如果组织大小已经超过了载玻片的大小，可用预冷的刀片切一下组织。
 - 准备切片，切片的速度需要根据厚度和组织来决定。较硬和较厚的切片需要low sectioning speeds。此外，不同温度会导致切片碎裂。
     - 样本头温度过低，可能会导致切片撕裂，需要适当调高温度。
-![低温撕裂的切片](image.png)
+    ![低温撕裂的切片](image.png)
     - 如果切片出现卷拢，则说明可能样本头温度过高，需要调低温度。
-![高温卷拢的切片](image-1.png)
+    ![高温卷拢的切片](image-1.png)
 - 用载玻片吸附切片，并将手贴在切片区域的背面，帮助切片完全的吸附至载玻片。整个过程都在冷冻室进行。
 - 将制作好的冷冻切片放入预冷的载玻片邮寄夹，密封保存，并置于干冰上，转移至-80°C保存，通常可以保存4周以上。
 > 每个邮寄器尽量放一个切片，防止互相交叉污染，并且需要放在密闭的容器内保存。运输冷冻切片务必在有干冰的条件下运输，切勿放在常温条件。
@@ -117,5 +117,4 @@ Frozen section technique is a valuable tool to rapidly prepare slides from tissu
 1. [高冷冻切片的技术水平 \- 知乎](https://zhuanlan.zhihu.com/p/30836581)
 2. [Visium Tissue Preparation Protocol \| Flash Freezing Tissue](https://www.youtube.com/watch?v=KdfqH4zoy5M&list=PLfaSRwcfHcq0D8RTy9LR8sKsWcF6C8TAt)
 3. [Bradshaw R (2023) MALDI MS Imaging of Cucumbers. In LM Cole, MR Clench, eds, Imaging Mass Spectrometry: Methods and Protocols. Springer US, New York, NY, pp 63–69](https://doi.org/10.1007/978-1-0716-3319-9_6)
-4. [Nunez V, Cook A, Havnar C, Flanagan S, Ge N, Martzall A, Taylor RE, Lu M, Mayba O, Foreman O (2022) Tissue cryopreservation using the 3M™ Novec™ 7000 freezing coolant offers a comparable and safe alternative to customary coolants. Journal of Histotechnology 45: 85–91
-](https://doi.org/10.1080/01478885.2021.1993528)
+4. [Nunez V, Cook A, Havnar C, Flanagan S, Ge N, Martzall A, Taylor RE, Lu M, Mayba O, Foreman O (2022) Tissue cryopreservation using the 3M™ Novec™ 7000 freezing coolant offers a comparable and safe alternative to customary coolants. Journal of Histotechnology 45: 85–91](https://doi.org/10.1080/01478885.2021.1993528)
