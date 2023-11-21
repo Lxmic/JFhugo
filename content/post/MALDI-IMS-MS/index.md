@@ -5,11 +5,8 @@ title: "MALDI IMS MS"
 subtitle: ""
 summary: "How to spray various matrices on cryo-sections for MALDI-IMS"
 authors: admin
-tags: 
-  - DHB
-  - HCCA
-  - HTX sprayer
-categories: []
+tags: matrix
+categories: method
 date: 2023-11-10T16:39:28+08:00
 lastmod: 2023-11-10T16:39:28+08:00
 featured: false
