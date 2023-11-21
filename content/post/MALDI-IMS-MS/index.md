@@ -52,4 +52,3 @@ projects: []
 ![六通阀旋钮](image-2.png)
 ![六通阀线圈](D8FB204D-BD06-4353-87BD-4DECF06FA954_1_105_c.jpeg)
 9. 此时，手动调节机器上方泵的流速（参照step中设置的程序进行调整）。然后在cycle界面设定好基质体积，在开始界面点击开始，最后等到工作温度达到设定温度，点击continue，会有一个“wait time remaining”，等这个结束，sprayer开始全自动工作。
-{{< youtube w7Ft2ymGmfc >}}
