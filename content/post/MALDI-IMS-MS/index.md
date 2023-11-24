@@ -7,7 +7,7 @@ summary: "How to spray various matrices on cryo-sections for MALDI-IMS"
 authors: 
     - admin
 tags: matrix
-categories: method
+categories: Method
 date: 2023-11-10T16:39:28+08:00
 lastmod: 2023-11-10T16:39:28+08:00
 featured: false
