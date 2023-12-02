@@ -36,4 +36,4 @@ projects: []
 ## 文献
 [LIPID MAPS: update to databases and tools for the lipidomics community.](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad896/7321986?login=true) 
 
-<center><embed src="LIPIDMAPS.pdf" width="850" height="600"></center>
+<center><embed src="LIPIDMAPS.pdf" width="850" height="800"></center>
