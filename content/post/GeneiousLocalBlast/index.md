@@ -3,7 +3,7 @@
 
 title: "GeneiousLocalBlast"
 subtitle: ""
-summary: "Establishment of local blast databases for each species for rapid CDS, protein or genomic blasts"
+summary: "Establishment of local blast databases for each species for rapid CDS, protein or genomic blasts."
 authors: 
   - admin
 tags: 
