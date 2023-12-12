@@ -28,6 +28,8 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+{{< toc >}}
+
 ## 操作前步骤
 1. 在每次操作的开始阶段，老师首先会教使用者设置照片的存盘路径（首次教学后，以后自己设置）。
 2. 然后，老师将样品装进电镜并点亮灯丝（始终老师操作）。
@@ -84,6 +86,21 @@ projects: []
   - 当我们拍好一张照片以后，要记得存盘哦，存盘方法很简单：点击下图红色箭头所指的<font color=red>磁盘123</font>即可。照片被存盘到指定的文件夹，而且照片文件名里面<font color=red>自动</font>带上了样品名称、放大倍数以及序号。
 ![保存](image-6.png)
 
+- 电镜操作
+<iframe id="test" src="//player.bilibili.com/player.html?aid=664659916&bvid=BV16a4y197ue&cid=1364507660&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%> </iframe>
+
+<script type="text/javascript">
+document.getElementById("test").style.height=document.getElementById("test").scrollWidth*0.76+"px";
+</script>
+
+
+- 相机操作
+<iframe id="tem" src="//player.bilibili.com/player.html?aid=494699797&bvid=BV1QN411G7n5&cid=1364580181&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%> </iframe>
+
+<script type="text/javascript">
+document.getElementById("tem").style.height=document.getElementById("tem").scrollWidth*0.76+"px";
+</script>
+
 ## <font color=orange>操作电镜</font>
 
 {{% callout note %}}
@@ -118,5 +135,5 @@ View窗口的作用有这样几个方面：
 
 ## <font color=orange>参考内容说明</font>
 {{% callout note %}}
-以上内容根据ZJU农生环电镜中心的相关资料进行稍加整理。
+以上内容根据ZJU农生环电镜中心的相关资料及教学视频进行稍加整理。
 {{% /callout %}}
