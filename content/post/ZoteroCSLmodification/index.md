@@ -30,7 +30,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-## 修改现有样式——创建适合PPT文献引用格式
+## <font color=Orange>修改现有样式——创建适合PPT文献引用格式</font>
 1. [open CSL editor site](https://editor.citationstyles.org/about/)，可再搜索框搜索需要修改的期刊文献引用格式。
 ![search](image.png)
 
@@ -62,14 +62,23 @@ projects: []
 10. 最后修改CSL的名字，自己像个名字填入title，并删除ISSN号。
 点击**ADVANCED**-info，在title部分填入自己想要的名字，再点击Delete删除ISSN号，至此全部修改完成。
 ![修改csltitle](image-12.png)
-## 保存修改后的CSL文件，导入Zotero中使用
+
+## <font color=orange>保存修改后的CSL文件，导入Zotero中使用</font>
 - 点击左上角的Style，点击Save style
 ![点击save](image-10.png)
 - 点击download style
 ![下载保存](image-11.png)
 - 根据Zotero这部分说明，将CSL文件导入zotero，然后选择该引用方式。
 ![导入zotero使用](image-13.png)
-## 参考内容
+
+## <font color=orange>如何再次修改</font>
+如果决定现在这个格式有点问题，想再修改一下，那么需要怎么办？
+1. 还是打开网站，Visualeditor页面。
+2. 点击做上交Style，点击load CSL，选择上次保存的文件。
+![重新修改](image-14.png)
+3. 然后就可以做相应的修改了。
+
+## <font color=orange>参考内容</font>
 1. [知乎@兰斯《Zotero + CSL编辑器，自定义文献引用格式，创建PPT中的短文献引用》](https://zhuanlan.zhihu.com/p/185026280)
 2. [Visual CSL Editor: A guide to modifying and creating citation styles in Mendeley and Zotero](https://www.researchgate.net/publication/359256507_Visual_CSL_Editor_A_guide_to_modifying_and_creating_citation_styles_in_Mendeley_and_Zotero)
-<center><embed src="VisualCSLEditorGuide.pdf" width="700" height="650"></center>s
+<center><embed src="VisualCSLEditorGuide.pdf" width="700" height="650"></center>
