@@ -93,12 +93,32 @@ projects: []
 document.getElementById("test").style.height=document.getElementById("test").scrollWidth*0.76+"px";
 </script>
 
+- 样品杆装样
+<iframe id="sample" src="//player.bilibili.com/player.html?aid=664692234&bvid=BV1Sa4y197XJ&cid=1366928204&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%> </iframe>
+
+<script type="text/javascript">
+document.getElementById("sample").style.height=document.getElementById("sample").scrollWidth*0.76+"px";
+</script>
 
 - 相机操作
 <iframe id="tem" src="//player.bilibili.com/player.html?aid=494699797&bvid=BV1QN411G7n5&cid=1364580181&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%> </iframe>
 
 <script type="text/javascript">
 document.getElementById("tem").style.height=document.getElementById("tem").scrollWidth*0.76+"px";
+</script>
+
+- 目镜使用
+<iframe id="eye" src="//player.bilibili.com/player.html?aid=237208874&bvid=BV1me411y7AA&cid=1366942641&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%> </iframe>
+
+<script type="text/javascript">
+document.getElementById("eye").style.height=document.getElementById("eye").scrollWidth*0.76+"px";
+</script>
+
+- 保存照片
+<iframe id="pic" src="//player.bilibili.com/player.html?aid=749687851&bvid=BV1dC4y1F7QP&cid=1366924726&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%> </iframe>
+
+<script type="text/javascript">
+document.getElementById("pic").style.height=document.getElementById("pic").scrollWidth*0.76+"px";
 </script>
 
 ## <font color=orange>操作电镜</font>
