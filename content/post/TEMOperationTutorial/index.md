@@ -86,35 +86,35 @@ projects: []
   - 当我们拍好一张照片以后，要记得存盘哦，存盘方法很简单：点击下图红色箭头所指的<font color=red>磁盘123</font>即可。照片被存盘到指定的文件夹，而且照片文件名里面<font color=red>自动</font>带上了样品名称、放大倍数以及序号。
 ![保存](image-6.png)
 
-- 电镜操作
+- 电镜操作 👇
 <iframe id="test" src="//player.bilibili.com/player.html?aid=664659916&bvid=BV16a4y197ue&cid=1364507660&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%> </iframe>
 
 <script type="text/javascript">
 document.getElementById("test").style.height=document.getElementById("test").scrollWidth*0.76+"px";
 </script>
 
-- 样品杆装样
+- 样品杆装样 👇
 <iframe id="sample" src="//player.bilibili.com/player.html?aid=664692234&bvid=BV1Sa4y197XJ&cid=1366928204&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%> </iframe>
 
 <script type="text/javascript">
 document.getElementById("sample").style.height=document.getElementById("sample").scrollWidth*0.76+"px";
 </script>
 
-- 相机操作
+- 相机操作 👇
 <iframe id="tem" src="//player.bilibili.com/player.html?aid=494699797&bvid=BV1QN411G7n5&cid=1364580181&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%> </iframe>
 
 <script type="text/javascript">
 document.getElementById("tem").style.height=document.getElementById("tem").scrollWidth*0.76+"px";
 </script>
 
-- 目镜使用
+- 目镜使用 👇
 <iframe id="eye" src="//player.bilibili.com/player.html?aid=237208874&bvid=BV1me411y7AA&cid=1366942641&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%> </iframe>
 
 <script type="text/javascript">
 document.getElementById("eye").style.height=document.getElementById("eye").scrollWidth*0.76+"px";
 </script>
 
-- 保存照片
+- 保存照片 👇
 <iframe id="pic" src="//player.bilibili.com/player.html?aid=749687851&bvid=BV1dC4y1F7QP&cid=1366924726&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%> </iframe>
 
 <script type="text/javascript">
