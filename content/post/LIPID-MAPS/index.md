@@ -1,14 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "LIPID MAPS"
+title: "BioToolsBox"
 subtitle: ""
-summary: "LIPID Metabolites And Pathways Strategy (LIPID MAPS<sup>®</sup>) is a multi-institutional supported website and database that provides access to a large number of globally used lipidomics resources. "
+summary: "Introduce various biological tools to make scientific research easier."
 authors: 
   - admin
 tags: 
-  - LIPID
-  - Mass Spectrometry
+  - Tools
 categories: OnlineTools
 date: 2023-12-02T15:00:34+08:00
 lastmod: 2023-12-02T15:00:34+08:00
@@ -30,10 +29,10 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-## 网址
-[LIPID MAPS网站.](https://www.lipidmaps.org)
-
-## 文献
-[LIPID MAPS: update to databases and tools for the lipidomics community.](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad896/7321986?login=true) 
-
+## 1. LIPID MAPS网站
+[LIPID MAPS网站.](https://www.lipidmaps.org)。文献介绍：[LIPID MAPS: update to databases and tools for the lipidomics community.](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad896/7321986?login=true) 
 <center><embed src="LIPIDMAPS.pdf" width="700" height="650"></center>
+
+## 2. 赛默飞双酶切（慢酶）体系计算网页工具
+网站地址：[DoubleDigest Calculator](https://www.thermofisher.cn/cn/zh/home/brands/thermo-scientific/molecular-biology/thermo-scientific-restriction-modifying-enzymes/restriction-enzymes-thermo-scientific/double-digest-calculator-thermo-scientific.html)。使用很简单，输入两个内切酶就会出现结果。
+![使用](image.png)
