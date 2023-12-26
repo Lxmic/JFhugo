@@ -36,3 +36,15 @@ projects: []
 ## 2. 赛默飞双酶切（慢酶）体系计算网页工具
 网站地址：[DoubleDigest Calculator](https://www.thermofisher.cn/cn/zh/home/brands/thermo-scientific/molecular-biology/thermo-scientific-restriction-modifying-enzymes/restriction-enzymes-thermo-scientific/double-digest-calculator-thermo-scientific.html)。使用很简单，输入两个内切酶就会出现结果。
 ![使用](image.png)
+
+## 3. GenePattern
+![homepage](image-1.png)
+
+- 上传gct文件，选择行聚类或列聚类。或者两个一起聚类。
+![cluster](image-2.png)
+
+- 选择默认的内存，可以减少job等待时间。
+![memeory](image-3.png)
+
+- 跑完后会产生几个文件，gtr和cdt。这就是已经聚类好的树文件，直接用Excel打开。
+![results](image-4.png)
