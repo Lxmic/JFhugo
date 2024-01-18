@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Tomato VIGS Protocol"
-subtitle: ""
+subtitle: "The Whole process of tomato VIGS experiment from primer design to phenotype."
 summary: ""
 authors: 
   - admin
@@ -30,6 +30,24 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+## VIGS tools
+番茄VIGS片段选择网站，[VIGS tools](https://vigs.solgenomics.net)。
+![Alt text](image.png)
+
+填入目的基因CDS序列，然后默认参数，选择物种数据库，点击Run。
+![Alt text](image-1.png)
+
+输出结果黄色区域为特异性片段，用于VIGS。
+![Alt text](image-2.png)
+
+设计引物扩增片段，并构建至pTRV2载体。
+
+---
+# <font color=green>Part I Cotyledon infiltration</font>
+
+---
+
 ## Plant material
 Tomato (Solanum lycopersicum) 生长约7-9天，两片子叶完全展开，真叶还未出现。
 {{% callout note %}}
@@ -94,3 +112,27 @@ Bring to a final volume of 1 liter with distilled water. Autoclave. Be aware tha
 ## References
 André C. Velásquez, Suma Chakravarthy, Gregory B. Martin. Virus-induced Gene Silencing (VIGS) in *Nicotiana benthamiana* and Tomato. Journal of Visualized Experiments. 2009. 1292 doi:10.3791/1292 
 
+---
+# <font color=tomato>Part II Sprout vacuum-infiltration</font>
+
+---
+## Plant material
+Tomato sprouts come from seeds. Sprouts are easy to obtain about 2days.
+
+
+## VIGS
+
+### DAY1
+GV3101 harboring pTRV1, pTRV2, pTRV2-PDS, pTRV2-target gene are grown on LB agar plates containing 50 µg/mL of Kan and 25 µg/mL of rifampicin. Incubate at 28°C for 2 days.
+
+### DAY3
+A single colony was picked and inoculated in 2 mL LB with appropriate antibiotics（50 µg/mL of Kan and 25 µg/mL of Rifampicin）. Shaking at 200 rpm at 28°C for 10 h (Overnight)
+
+### DAY4
+500 µl of above culture was inoculated into a 2-3 mL LB containing antibiotics, 10 mM MES and 20 µM acetosyringone. Shaking at 200 rpm at 28°C for 10 h. Each *Agrobacterium* strain containing TRV1 and TRV2 vectors were mixed in 1:1 ratio.
+
+Harvest and resuspend into infiltration buffer with 10 mM MgCl2, 10 mM MES and 200 µM Acetosyringone, pH 5.6, adjust to an OD of 1.0 and left at RT for 3-4 h.
+
+Silwet L77 was added to cell solution (0.05%, v/v, 1 µL:2 mL) and mixed well immediately.
+
+30 seeds each group were placed in 6 ml mixture strains, and then Vacuum-infiltration.
