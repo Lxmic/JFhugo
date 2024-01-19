@@ -127,6 +127,9 @@ GV3101 harboring pTRV1, pTRV2, pTRV2-PDS, pTRV2-target gene are grown on LB agar
 
 ### DAY3
 A single colony was picked and inoculated in 2 mL LB with appropriate antibiotics（50 µg/mL of Kan and 25 µg/mL of Rifampicin）. Shaking at 200 rpm at 28°C for 10 h (Overnight)
+{{% callout note %}}
+与此同时，可以将种子浸泡于水中，开始28°C摇床200rpm摇2天。
+{{% /callout %}}
 
 ### DAY4
 500 µl of above culture was inoculated into a 2-3 mL LB containing antibiotics, 10 mM MES and 20 µM acetosyringone. Shaking at 200 rpm at 28°C for 10 h. Each *Agrobacterium* strain containing TRV1 and TRV2 vectors were mixed in 1:1 ratio.
@@ -135,4 +138,16 @@ Harvest and resuspend into infiltration buffer with 10 mM MgCl2, 10 mM MES and 2
 
 Silwet L77 was added to cell solution (0.05%, v/v, 1 µL:2 mL) and mixed well immediately.
 
-30 seeds each group were placed in 6 ml mixture strains, and then Vacuum-infiltration.
+{{% callout note %}}
+种子大概0.5-1.0 cm，可进行抽真空（Yan et al.2012.）。
+![Alt text](image-3.png)
+{{% /callout %}}
+
+30 seeds each group were placed in 6 ml mixture strains, and then Vacuum-infiltration. **Vacuum 5 times for 30 seconds each time.**
+
+<font color=red>Sow shallowly, sprinkle a shallow layer of soil over the surface of the seed.</font> In about 4-5 days, the seeds can break out of the soil and the shoot begin to grow.
+
+## Reference
+Yan et al. Plant Cell Reports. 2012. 31: 1713–1722 
+
+
