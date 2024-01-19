@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Tomato VIGS Protocol"
-subtitle: "The Whole process of tomato VIGS experiment from primer design to phenotype."
-summary: ""
+subtitle: ""
+summary: "The Whole process of tomato VIGS experiment from primer design to phenotype."
 authors: 
   - admin
 tags:
@@ -139,7 +139,7 @@ Harvest and resuspend into infiltration buffer with 10 mM MgCl2, 10 mM MES and 2
 Silwet L77 was added to cell solution (0.05%, v/v, 1 µL:2 mL) and mixed well immediately.
 
 {{% callout note %}}
-种子大概0.5-1.0 cm，可进行抽真空（Yan et al.2012.）。
+Seeds roughly 0.5-1.0 cm, can be evacuated（Yan et al.2012.）。
 ![Alt text](image-3.png)
 {{% /callout %}}
 
