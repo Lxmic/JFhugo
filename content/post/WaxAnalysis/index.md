@@ -4,9 +4,12 @@
 title: "Wax Analysis"
 subtitle: ""
 summary: ""
-authors: admin
-tags: []
-categories: []
+authors: 
+  - admin
+tags:
+  - Wax
+  - GCMS
+categories: Method
 date: 2024-01-22T10:11:15+08:00
 lastmod: 2024-01-22T10:11:15+08:00
 featured: false
@@ -16,8 +19,8 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "GCMS"
+  focal_point: "Smart"
   preview_only: false
 
 # Projects (optional).
