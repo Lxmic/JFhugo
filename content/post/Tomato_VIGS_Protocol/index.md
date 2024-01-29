@@ -147,6 +147,10 @@ Seeds roughly 0.5-1.0 cm, can be evacuated（Yan et al.2012.）。
 
 <font color=red>Sow shallowly, sprinkle a shallow layer of soil over the surface of the seed.</font> In about 4-5 days, the seeds can break out of the soil and the shoot begin to grow.
 
+### True leaf emergence （Approximately 7-9 days）
+播种之后，大概7-9天，子叶开始出现。种子萌发时间不同，有些种子发芽慢，因此长短不齐。由此可见，最好使用萌发程度一致，容易控制取样时间并且保证实验一致性。
+![TrueLeaf](image-4.png)
+
 ## Reference
 Yan et al. Plant Cell Reports. 2012. 31: 1713–1722 
 
