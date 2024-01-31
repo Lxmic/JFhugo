@@ -151,7 +151,12 @@ Seeds roughly 0.5-1.0 cm, can be evacuated（Yan et al.2012.）。
 播种之后，大概7-9天，子叶开始出现。种子萌发时间不同，有些种子发芽慢，因此长短不齐。由此可见，最好使用萌发程度一致，容易控制取样时间并且保证实验一致性。
 ![TrueLeaf](image-4.png)
 
+## Fruit VIGS
+Plant infiltration were performed as described in Ratcliff et al. (2001), with the modification used in tomato fruit. The Agrobacterium strain GV3101 containing pTRV1 or pTRV2 and its derivatives were used for VIGS experiments. The Agrobacterium strain GV3101 containing TRV-VIGS vectors was grown at 28°C in LB medium containing 10 mM MES and 20 mM acetosyringone with appropriate antibiotics. After 24 h, Agrobacterium cells were harvested and resuspended in the Agrobacterium infiltration buffer (10 mM MgCl2, 10 mM MES, pH 5.6, 150 mM acetosyringone) to a final OD 600 of 1.0 (for both pTRV1 or pTRV2 and its derivatives) and shaken for 4–6 h at room temperature before infiltration.
+
+For tomato fruit infiltration, each *Agrobacterium* strain containing pTRV1 and pTRV2 or its derivative vectors were mixed in a 1:1 ratio and infiltrated into the carpopodium of tomato fruit attached to the plant in about 10 days after pollination with a 1-ml syringe .
 ## Reference
 Yan et al. Plant Cell Reports. 2012. 31: 1713–1722 
 
+Fu, Zhu, Zhu, Jiang & Luo. The Plant Journal. 2005. 43: 299–308 
 
