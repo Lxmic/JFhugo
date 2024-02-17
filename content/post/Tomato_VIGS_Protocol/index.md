@@ -155,6 +155,15 @@ Seeds roughly 0.5-1.0 cm, can be evacuated（Yan et al.2012.）。
 抽真空后12天，真叶继续生长，很多苗开始变白，PDS沉默效果显现。
 ![12Days](image-5.png)
 
+### 20 Days after infiltration
+抽真空后20天，继续生长，栽培番茄基本还是呈现斑点状分布，PDS沉默效果显现。
+![Alt text](image-7.png)
+
+### 28 Days after infiltration
+大约一个月左右，番茄进一步生长，VIGS效果进一步提升。SlPDS和SpPDS效果出现了差别，有SlPDS沉默效果更明显了，叶片特别白，SpPDS还是呈现点状为主。
+![Alt text](image-6.png)
+
+### 
 ## Fruit VIGS
 Plant infiltration were performed as described in Ratcliff et al. (2001), with the modification used in tomato fruit. The Agrobacterium strain GV3101 containing pTRV1 or pTRV2 and its derivatives were used for VIGS experiments. The Agrobacterium strain GV3101 containing TRV-VIGS vectors was grown at 28°C in LB medium containing 10 mM MES and 20 mM acetosyringone with appropriate antibiotics. After 24 h, Agrobacterium cells were harvested and resuspended in the Agrobacterium infiltration buffer (10 mM MgCl2, 10 mM MES, pH 5.6, 150 mM acetosyringone) to a final OD 600 of 1.0 (for both pTRV1 or pTRV2 and its derivatives) and shaken for 4–6 h at room temperature before infiltration.
 
