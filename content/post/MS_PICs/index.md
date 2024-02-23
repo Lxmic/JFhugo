@@ -9,7 +9,7 @@ authors:
 tags: 
   - Adobe Illustrator
   - Chromatogram
-categories: Methods
+categories: Method
 date: 2024-01-24T18:15:24+08:00
 lastmod: 2024-01-24T18:15:24+08:00
 featured: false
